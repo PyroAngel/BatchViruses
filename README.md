@@ -6,3 +6,6 @@ Please, PLEASE use this responsibly... unless you have permission to destroy a s
 .... and send me a video of it :)
 
 Enjoy!
+
+
+... please, how teh hell am i supposed to send you a video of my destroying a computer do you think its fun huh this is emotional damage
